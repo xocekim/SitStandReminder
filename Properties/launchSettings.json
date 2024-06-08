@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SitStandReminder (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SitStandReminder (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
